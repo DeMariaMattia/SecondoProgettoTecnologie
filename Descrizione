@@ -1,0 +1,9 @@
+Questo progetto è svolto singolarmente ed sarà particolare e utile.
+Non ci sarà quindi un gruppo ma ci sarò solo io Mattia De Maria.
+Il progetto consiste nella domotizzazione della comune cassetta postale che noi tutti abbiamo.
+L'idea è nata perchè a causa delle continue lettere e/o tasse e/o multe che possono arrivare a casa, sarebbe utile ricevere un avviso quando qualcosa viene inserito nella cassetta 
+postale; spesso infatti queste ultime vengono lasciate nella cassetta per molti giorni dopo la consegna. Al fine di evitare tutto ciò ho pensato a questa soluzione.
+Inoltre la cassetta verrà dotata di un sistema RFID che riconoscerà la tessera (che verrà registrata prima dell'installazione),
+e aprirà la cassetta senza alcun utilizzo di chiavi esterne.
+
+Ruolo: De Maria Mattia = Capogruppo/Sviluppatore
