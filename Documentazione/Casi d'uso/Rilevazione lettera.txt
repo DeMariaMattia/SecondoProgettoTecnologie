@@ -1,0 +1,11 @@
+Attore: Cassetta 
+
+Eventi:
+
+1)Il sensore controlla la distanza che separa la fine della cassetta dal sensore stesso.
+
+2.1)Se la distanza è meno della soglia determinata vorrà dire che qualcosa è stato inserito nella cassetta, verrà quindi inviata una notifica al proprietario.
+
+2.2)Se la distanza rimarrà invariata vorrà dire che non è stato inserito nulla nella cassetta, non verrà quindi inviata alcuna una notifica al proprietario.
+
+3)La cassetta regola in modo automaticole notifiche da inoltrare al proprietario.
