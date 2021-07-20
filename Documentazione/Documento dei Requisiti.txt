@@ -1,0 +1,10 @@
+REQUISITI:
+
+MUST:
+L'utente deve poter ricevere un avviso quando qualcosa è inserito nella cassetta.Inoltre deve poter aprirla senza alcun utlizzo di chiavi.
+
+SHOULD:
+L'utente dovrebbe ricevere una mail come avviso di consegna, nel caso qualcuno provi ad aprire la cassetta senza accesso, il sistema provvederà a mandare una mail ulteriore.
+
+MAY:
+L'utente può vedere l'orario in cui è stata consegnata la lettera.
