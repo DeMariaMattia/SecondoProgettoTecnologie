@@ -1,0 +1,11 @@
+Attore: Cassetta 
+
+Eventi:
+
+1)Il sensore RFID controlla che venga posta una chiave RFID vicino ad esso.
+
+2.1)Se la chiave che viene rilevata è registrata allora la cassetta si aprirà tramite il servomotore inserito all'interno.
+
+2.2)Se la chiave che viene rilevata non è registrata allora la cassetta non si aprirà, il sistema provvederà poi ad inoltrare una mail di avviso al proprietario.
+
+3)La cassetta regola in modo automatico le notifiche da inoltrare al proprietario e ne regola l'apertura e la chiusura tramite un dispositivo RFID registrato.
