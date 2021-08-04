@@ -1,0 +1,14 @@
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MandaEmail.csprojAssemblyReference.cache
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MainWindow.g.cs
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\App.g.cs
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MandaEmail_MarkupCompile.cache
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MandaEmail_MarkupCompile.lref
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\bin\Debug\MandaEmail.exe.config
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\bin\Debug\MandaEmail.exe
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\bin\Debug\MandaEmail.pdb
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MainWindow.baml
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MandaEmail.g.resources
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MandaEmail.Properties.Resources.resources
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MandaEmail.csproj.GenerateResource.cache
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MandaEmail.exe
+C:\Users\matti\Desktop\Scuola\ProgettoArduinoPosta\MandaEmail\MandaEmail\obj\Debug\MandaEmail.pdb
