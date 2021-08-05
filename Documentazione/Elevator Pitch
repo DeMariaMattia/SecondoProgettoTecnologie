@@ -1,0 +1,23 @@
+Elevator Pitch:
+
+Problema:
+  Il problema che mi sono posto di risolvere è quello delle lettere o qualsiasi cosa venga
+  inserito nella cassetta postale che spesso viene lasciata incustodita con lettere dentro per giorni.
+  Difatti per una persona che viaggia molto o una persona che possiede due case spesso lascia
+  lettere o altro all'interno della cassetta postale.Ciò provoca magari ritardi nei pagamenti o
+  ritardi nella presa visione di una comunicazione.
+  
+Soluzione:
+  La soluzione che ho trovato è di posizionare un sensore in modo tale che rilevi quando
+  qualcosa venga inserito all'interno della cassetta e inoltri una mail al proprietario.
+  Inoltre ho posto un sensore RFID in modo tale da aprire la cassetta senza l'utilizzo di chiavi
+  ma tramite una tessera/chiave registrata.
+  
+Team:
+ De Maria Mattia->Capogruppo/Sviluppatore
+ 
+Roadmap:
+  Il progetto è iniziato con la realizzazione di un primo prototipo del progetto di arduino che permetteva solo 
+  l'apertura e la chiusura della cassetta tramite una chiave registrata.
+	Poi ho inserito il sensore di distanza che permette di capire quando viene inserito qualcosa.
+  Infine ho implementato il codice arduino che inviava al codice c# un carattere per permettere l'invio della mail.
