@@ -1,0 +1,32 @@
+Fase 1 ->"L'utente visualizza la pubblicità della cassetta postale"
+OBIETTIVI: 
+– AZIONI: L'utente mentre sta navigando sul web si imbatte nella pubblicità.
+– OGGETTI: pubblicità sponsorizzate su internet.
+– PERSONE: In questa fase è coinvolto solamente l'utente.
+– EMOZIONI: L'utente potrebbe essere interessato all'acquisto del prodotto.
+– TEAM: Grafici pubblicitari.
+
+Fase 2 -> "L'utente si interessa del prodotto e visualizza il nostro sito internet"
+OBIETTIVI: 
+– AZIONI: L'utente dopo aver visto la pubblicità è sempre più incuriosito e visiona il sito dell'azienda.
+– OGGETTI: Sito internet
+– PERSONE: In questa fase è coinvolto solamente l'utente
+– EMOZIONI: L'utente è sempre più interessato all'acquisto di questo prodotto
+– TEAM: Sviluppatori sito web
+
+Fase 3 -> "L'utente all'azienda per ottenere maggiori informazioni sul prodotto"
+OBIETTIVI: 
+– AZIONI: L'utente si reca sulla pagina con tutti i contatti dell'azienda e scrive una e-mail per ottenere maggiori informazioni
+– OGGETTI: Sito internet/e-mail
+– PERSONE: In questa fase sono coinvolti l'utente e il personale dedicato all'assistenza dei clienti
+– EMOZIONI: L'utente vorrebbe comprare il prodotto ma prima vuole capire è veramente l'ottimale per lui
+– TEAM: Team assistenza clienti
+
+
+Fase 4 -> "L'utente ordina il prodotto"
+OBIETTIVI: 
+– AZIONI: L'utente si reca sulla pagina del sito web dedicata all'acquisto del prodotto e lo ordina
+– OGGETTI: Sito internet
+– PERSONE: In questa fase sono coinvolti l'utente e il personale dedicato alla spedizione del prodotto
+– EMOZIONI: L'utente è contento di aver comprato questo prodotto.
+– TEAM: Team spedizione
